@@ -1,4 +1,5 @@
 Instructions for Running the File
+
 Step 1: Download the file.
 
 Step 2: Extract the ZIP file and move the folder to the htdocs directory. Then, launch XAMPP.
